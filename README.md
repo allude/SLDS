@@ -1,3 +1,41 @@
+# CDN for Salesforce Lighning Design System 2.2.1
+Used for hosting salesforce-lightning-design-system on github for **TESTING** purposes only. Do not us this in production.
+
+## Contents
+
+* assets/
+  - styles/
+    - salesforce-lightning-design-system.css (regular CSS)
+    - salesforce-lightning-design-system-vf.css (scoped CSS for use in Visualforce)
+    - salesforce-lightning-design-system-ltng.css (scoped CSS for use in Lightning Components)
+
+
+## Usage
+
+Simple copy-paste this css on your html or visualforce pages
+
+### Regular minified CSS 
+
+    <link rel="stylesheet" type="text/css" href="https://rawgit.com/allude/SLDS/master/assets/styles/salesforce-lightning-design-system.min.css">
+
+
+### Scopped minified CSS for Visualforce
+
+    <link rel="stylesheet" type="text/css" href="https://rawgit.com/allude/SLDS/master/assets/styles/salesforce-lightning-design-system-vf.min.css">
+
+
+### Scopped minified CSS for Lightning Components
+
+    <link rel="stylesheet" type="text/css" href="https://rawgit.com/allude/SLDS/master/assets/styles/salesforce-lightning-design-system-ltng.min.css">
+
+### Importing Salesforce Regular Fonts
+
+    https://rawgit.com/allude/SLDS/master/assets/fonts/webfonts/SalesforceSans-Regular.woff2?raw=true
+
+### Importing Salesforce Light Fonts
+
+    https://rawgit.com/allude/SLDS/master/assets/fonts/webfonts/SalesforceSans-Light.woff2?raw=true
+
 # Lightning Design System 
 # Version: 2.2.1 
 # Salesforce Lightning Design System
