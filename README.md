@@ -1,4 +1,4 @@
-# CDN for Salesforce Lighning Design System 2.2.1
+# CDN for Salesforce Lighning Design System 2.4.3
 Used for hosting salesforce-lightning-design-system on github for **TESTING** purposes only. Do not us this in production.
 
 ## Contents
