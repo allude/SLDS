@@ -251,7 +251,7 @@ th {
   text-shadow: none;
   color: #16325c; }
 
-html {
+.slds html {
   font-family: "Salesforce Sans", Arial, sans-serif;
   font-size: 100%;
   line-height: 1.5;
@@ -259,7 +259,7 @@ html {
   color: #3e3e3c;
   -webkit-tap-highlight-color: transparent; }
 
-body {
+.slds body {
   font-size: 0.8125rem;
   background: transparent; }
 
